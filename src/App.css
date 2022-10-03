@@ -5,8 +5,8 @@
 
 h1 {
   font-family: 'Press Start 2P', cursive;
-  font-size: 72px;
-  color: black;
+  font-size: 100px;
+  color: rgb(8, 2, 2);
 }
 
 .scroller {
